@@ -34,3 +34,4 @@ print(thisset)
 mydic = { 1:"test1", 2:"Test2"}
 mydic[2] = "test23"
 print(mydic)
+print(mydic)
